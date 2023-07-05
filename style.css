@@ -10,3 +10,8 @@ main img {
     border-radius: 10px;
     padding: 10px;
 }
+
+footer p {
+    color: #fff;
+    text-align: center;
+}
