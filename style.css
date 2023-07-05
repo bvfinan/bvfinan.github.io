@@ -5,4 +5,8 @@ body {
 
 main img {
     width: -webkit-fill-available;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
 }
